@@ -1,0 +1,168 @@
+*{
+    background-color: black;
+}
+.images-background{
+    background-image: url(https://us.123rf.com/450wm/facundodelellis/facundodelellis1805/facundodelellis180500003/100932744-silhouette-of-young-photographer-with-his-camera.jpg?ver=6);
+}
+#icon {
+    color: grey;
+    font-size: large;
+    margin-right: 10px;
+}
+
+#icon:hover {
+    color: white;
+    cursor: pointer;
+}
+
+#icons {
+    color: #27a776;
+    font-size: larger;
+}
+
+.photo {
+    font-family: "Satisfy";
+    font-weight: 400;
+    font-style: normal;
+
+}
+.letter{
+    font-family: serif;
+    font-weight: 500;
+}
+.btn-get-started{
+    background-color: #27a776;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.head{
+    font-family: "ponnines";
+}
+.grey{
+    color:gray;
+    font-family: sans-serif;
+}
+.head1{
+    font-family: "Satisfy";
+}
+.img-fliud{
+    max-width: 100%;
+    height: auto;
+}
+.content{
+    font-weight: 700;
+    font-size: 24px;
+    color: #27a776;
+}
+ul li{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+.nav{
+    border-bottom: 1px dashed gray;
+}
+#right-arrow{
+    color: #27a776;
+    font-size: large;
+}
+.pra{
+    line-break: 5px;
+    letter-spacing: 1px;
+    font-family: 'Segoe UI';
+    font-weight: 100;
+}
+.head2{
+    color: white;
+    font-family:"Satisfy";
+}
+u{
+    color: #27a776;
+}
+.pra1{
+    margin-left: 150px;
+    color: white;
+    font-family: 'Segoe UI';
+    font-size: normal;
+}
+.gallery-item{
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    border:1px solid;
+
+}
+.img1{
+    max-width: 100%;
+    height: 100%;
+    transition: 0.5s ease-in;
+    zoom: 100%;
+    filter: contrast(100%);
+}
+.img1:hover{
+    transform: scale(1.2);
+    zoom: 100%;
+    filter: contrast(1);
+}
+.section-header h3{
+    font-size: 14px;
+    font-weight: 200;
+    padding-left: 50px;
+    line-height: 1px;
+    margin: 0 0 5px 0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: white;
+}
+.pra2{
+    color: white;
+    font-size: xx-large;
+    font-family: "ponnines";
+}
+.head3{
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+}
+.pricing-item{
+    padding-left: 50px;
+    border-bottom: 1px dashed #474a4d;
+    width: 100%;
+    height: 100%;
+}
+.info-item{
+    font-size: 20px;
+    float: left;
+    width: 44px;
+    height: 44px;
+    background: rgb(34, 36, 37);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    transition: all 0.3s ease-in-out 0s;
+    color: #27a776;
+}
+.head4{
+    color: white;
+    font-size: larger;
+    
+}
+.pra3{
+    color: white;
+    font-size: medium;
+}
+.a-tag{
+    text-decoration: none;
+    color: #27a776;
+}
+.footer{
+    border-top: 1px dashed rgba(255, 255, 255, 0.15);
+    
+}
+#icones{
+    color: #27a776;
+    font-size: xx-large;
+}
